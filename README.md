@@ -3,12 +3,19 @@
 
 Instalation:
 In Kali or another Linux
+  
   git clone https://github.com/dimon453/blackeyephishing
+  
   cd blackeyephishing
+  
   Go to ngrok.com and log up
+  
   Copy token
+  
   Go to terminal and paste ./ngrok authtoken [Your token]
+  
   ./blackeye.sh 
+  
   Chouse your platform and you get a link)
   
             Disclaimer
